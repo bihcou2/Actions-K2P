@@ -22,7 +22,7 @@ on:
 #    types: started
 
 env:
-  REPO_URL: https://github.com/bihcou2/openwrt
+  REPO_URL: https://github.com/bihcou2/K2P
   REPO_BRANCH: dev-19.07
   CONFIG_FILE: .config
   DIY_SH: diy.sh
